@@ -2,6 +2,10 @@
 
 This repository contains a single-page portfolio for **Varun Kumar Reddy Gunnreddy**, generated from resume content.
 
+## Live Portfolio
+
+https://varunreddyg11.github.io/varun-portfolio/
+
 ## Run locally
 
 ```bash
